@@ -1,6 +1,7 @@
 # Smart-Watch-V2.1-Stylish-Tech-for-Men-Women
 A feature-rich smart watch for men and women with Bluetooth 2.1, health tracking, notifications, and sleek design. This repository includes full product description, key specs, and usage guide.
-![smart watch](https://github.com/user-attachments/assets/4fbf8059-653c-4966-80a9-80bfecc09b82)
+
+  ![smart watch](https://github.com/user-attachments/assets/4fbf8059-653c-4966-80a9-80bfecc09b82)
 
 In today’s fast-paced digital world, a smartwatch is more than just a gadget—it’s a lifestyle upgrade. Whether you're a fitness enthusiast, a business professional, or someone who loves staying connected on the go, the Smart Watch 2.1 for Men and Women is designed to complement your daily life with style, intelligence, and convenience.
 Sleek, Stylish, and Built for All
